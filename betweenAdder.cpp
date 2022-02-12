@@ -21,5 +21,5 @@ int main()
             result += i;
         }
     }
-    std::cout<<result<<std::endl;
+    std::cout<<"두 수 사이의 정수의 합 : " <<result<<std::endl;
 }
