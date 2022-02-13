@@ -28,7 +28,7 @@ void BestComImpl::simpleFunc()
     ProgComImpl::simpleFunc();
 }
 
-void BestComImpl::simpleFunc()
+void BestComImpl::prettyFunc()
 {
     std::cout<<"So pretty!"<<std::endl;
 }
